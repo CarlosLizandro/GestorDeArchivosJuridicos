@@ -9,7 +9,7 @@ public class GestionDeArchivosJuridicosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestionDeArchivosJuridicosApplication.class, args);
-                System.out.println("");
+                System.out.println("HOLA SANDRO SOY DIEGOOOO");
 	}
 
 }
